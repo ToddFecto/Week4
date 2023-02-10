@@ -1,0 +1,13 @@
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\bin\Debug\netcoreapp3.1\Assessment3_Practice.exe
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\bin\Debug\netcoreapp3.1\Assessment3_Practice.deps.json
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\bin\Debug\netcoreapp3.1\Assessment3_Practice.runtimeconfig.json
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\bin\Debug\netcoreapp3.1\Assessment3_Practice.runtimeconfig.dev.json
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\bin\Debug\netcoreapp3.1\Assessment3_Practice.dll
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\bin\Debug\netcoreapp3.1\Assessment3_Practice.pdb
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.csprojAssemblyReference.cache
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.AssemblyInfoInputs.cache
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.AssemblyInfo.cs
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.csproj.CoreCompileInputs.cache
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.dll
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.pdb
+C:\Dev\Week4\Assessment3_Practice\Assessment3_Practice\obj\Debug\netcoreapp3.1\Assessment3_Practice.genruntimeconfig.cache

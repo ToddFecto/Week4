@@ -1,0 +1,13 @@
+C:\Dev\Week4\Week4\ObjectDemo2\bin\Debug\netcoreapp3.1\ObjectDemo2.exe
+C:\Dev\Week4\Week4\ObjectDemo2\bin\Debug\netcoreapp3.1\ObjectDemo2.deps.json
+C:\Dev\Week4\Week4\ObjectDemo2\bin\Debug\netcoreapp3.1\ObjectDemo2.runtimeconfig.json
+C:\Dev\Week4\Week4\ObjectDemo2\bin\Debug\netcoreapp3.1\ObjectDemo2.runtimeconfig.dev.json
+C:\Dev\Week4\Week4\ObjectDemo2\bin\Debug\netcoreapp3.1\ObjectDemo2.dll
+C:\Dev\Week4\Week4\ObjectDemo2\bin\Debug\netcoreapp3.1\ObjectDemo2.pdb
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.csprojAssemblyReference.cache
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.AssemblyInfoInputs.cache
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.AssemblyInfo.cs
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.csproj.CoreCompileInputs.cache
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.dll
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.pdb
+C:\Dev\Week4\Week4\ObjectDemo2\obj\Debug\netcoreapp3.1\ObjectDemo2.genruntimeconfig.cache

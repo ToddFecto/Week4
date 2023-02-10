@@ -1,0 +1,12 @@
+C:\Dev\Week4\Week4\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.exe
+C:\Dev\Week4\Week4\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.deps.json
+C:\Dev\Week4\Week4\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.runtimeconfig.json
+C:\Dev\Week4\Week4\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.runtimeconfig.dev.json
+C:\Dev\Week4\Week4\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.dll
+C:\Dev\Week4\Week4\ParallelClass\bin\Debug\netcoreapp3.1\ParallelClass.pdb
+C:\Dev\Week4\Week4\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.AssemblyInfoInputs.cache
+C:\Dev\Week4\Week4\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.AssemblyInfo.cs
+C:\Dev\Week4\Week4\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.csproj.CoreCompileInputs.cache
+C:\Dev\Week4\Week4\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.dll
+C:\Dev\Week4\Week4\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.pdb
+C:\Dev\Week4\Week4\ParallelClass\obj\Debug\netcoreapp3.1\ParallelClass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Dev\Week4\Week4\CircleDemo\bin\Debug\netcoreapp3.1\CircleDemo.exe
+C:\Dev\Week4\Week4\CircleDemo\bin\Debug\netcoreapp3.1\CircleDemo.deps.json
+C:\Dev\Week4\Week4\CircleDemo\bin\Debug\netcoreapp3.1\CircleDemo.runtimeconfig.json
+C:\Dev\Week4\Week4\CircleDemo\bin\Debug\netcoreapp3.1\CircleDemo.runtimeconfig.dev.json
+C:\Dev\Week4\Week4\CircleDemo\bin\Debug\netcoreapp3.1\CircleDemo.dll
+C:\Dev\Week4\Week4\CircleDemo\bin\Debug\netcoreapp3.1\CircleDemo.pdb
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.csprojAssemblyReference.cache
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.AssemblyInfoInputs.cache
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.AssemblyInfo.cs
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.dll
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.pdb
+C:\Dev\Week4\Week4\CircleDemo\obj\Debug\netcoreapp3.1\CircleDemo.genruntimeconfig.cache

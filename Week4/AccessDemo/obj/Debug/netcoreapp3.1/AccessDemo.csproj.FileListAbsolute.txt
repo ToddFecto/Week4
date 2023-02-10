@@ -1,0 +1,13 @@
+C:\Dev\Week4\Week4\AccessDemo\bin\Debug\netcoreapp3.1\AccessDemo.exe
+C:\Dev\Week4\Week4\AccessDemo\bin\Debug\netcoreapp3.1\AccessDemo.deps.json
+C:\Dev\Week4\Week4\AccessDemo\bin\Debug\netcoreapp3.1\AccessDemo.runtimeconfig.json
+C:\Dev\Week4\Week4\AccessDemo\bin\Debug\netcoreapp3.1\AccessDemo.runtimeconfig.dev.json
+C:\Dev\Week4\Week4\AccessDemo\bin\Debug\netcoreapp3.1\AccessDemo.dll
+C:\Dev\Week4\Week4\AccessDemo\bin\Debug\netcoreapp3.1\AccessDemo.pdb
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.AssemblyInfoInputs.cache
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.AssemblyInfo.cs
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.csproj.CoreCompileInputs.cache
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.dll
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.pdb
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.genruntimeconfig.cache
+C:\Dev\Week4\Week4\AccessDemo\obj\Debug\netcoreapp3.1\AccessDemo.csprojAssemblyReference.cache

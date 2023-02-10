@@ -1,0 +1,13 @@
+C:\Dev\Week4\Week4\ObjectDemo3\bin\Debug\netcoreapp3.1\ObjectDemo3.exe
+C:\Dev\Week4\Week4\ObjectDemo3\bin\Debug\netcoreapp3.1\ObjectDemo3.deps.json
+C:\Dev\Week4\Week4\ObjectDemo3\bin\Debug\netcoreapp3.1\ObjectDemo3.runtimeconfig.json
+C:\Dev\Week4\Week4\ObjectDemo3\bin\Debug\netcoreapp3.1\ObjectDemo3.runtimeconfig.dev.json
+C:\Dev\Week4\Week4\ObjectDemo3\bin\Debug\netcoreapp3.1\ObjectDemo3.dll
+C:\Dev\Week4\Week4\ObjectDemo3\bin\Debug\netcoreapp3.1\ObjectDemo3.pdb
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.csprojAssemblyReference.cache
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.AssemblyInfoInputs.cache
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.AssemblyInfo.cs
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.csproj.CoreCompileInputs.cache
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.dll
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.pdb
+C:\Dev\Week4\Week4\ObjectDemo3\obj\Debug\netcoreapp3.1\ObjectDemo3.genruntimeconfig.cache
